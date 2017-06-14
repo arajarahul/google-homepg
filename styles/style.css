@@ -1,0 +1,136 @@
+
+.sign-in{
+	border: 1px solid #4285f4;
+	background:#4285f4;
+	position: relative;
+	margin-left: 1400px;
+    margin-right: 28px;
+    display: inline-block;
+    line-height: 28px;
+    padding: 0 12px;
+    border-radius: 2px;
+    font-family: arial,sans-serif;
+    text-align: left;
+    font-size: 13px;
+    font-weight: bolder;
+    color: white;
+}
+
+
+.google-logo{
+	position: relative; 
+	top: 200px;
+}
+
+.search-box{
+	position: relative; width: 350px; height: 22px; font-family: verdana
+}
+
+.gsearch{
+background-color: #f2f2f2;
+border: 1px solid #f2f2f2;
+border-radius: 5px;
+color: #757575;
+height: 35px;
+font-family: arial,sans-serif;
+font-size: 13px;
+font-weight: bold;
+margin: 11px 4px;
+min-width: 54px;
+padding: 0 16px;
+text-align: center;
+}
+
+.gsearch:hover{
+	border: 1px solid #b4babd;
+}
+
+.lucky-button{
+	background-color: #f2f2f2;
+border: 1px solid #f2f2f2;
+border-radius: 5px;
+color: #757575;
+height: 35px;
+font-family: arial,sans-serif;
+font-size: 13px;
+font-weight: bold;
+margin: 11px 4px;
+min-width: 54px;
+padding: 0 16px;
+text-align: center;
+}
+
+.lucky-button:hover{
+	border: 1px solid #b4babd;
+	/*border-radius: 0.5px;*/
+}
+
+/*Footer section*/
+div .footer{
+	white-space: nowrap;
+	background-color: #eef0f0;
+	border-radius: 5px;
+}
+span{
+	background-color: #eef0f0;
+	border-radius: 4px;
+}
+#left-foot{
+	margin-left: 0px;
+	white-space: nowrap;
+	background-color: #eef0f0;
+    position: relative;
+    top: 385px;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    line-height: 40px;
+    width: 100%;
+}
+
+#left-foot a{
+	color: #666;
+    margin: 0px 10px 0;
+}
+a .ad{
+	padding-left: 10px;    
+}
+a .bus{
+	padding-left: 30px;    
+}
+a .ab{
+	padding-left: 40px;    
+}
+
+#right-foot{
+	margin-left: 1000px;
+	margin-right: 0px;
+	white-space: nowrap;
+	background-color: #eef0f0;
+    position: relative;
+    top: 385px;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    line-height: 40px;
+    width: 100%;
+}
+#right-foot a{
+	color: #666;
+    margin: 0px 10px 0;
+}
+a .pr{
+	padding-left: 10px;    
+}
+a .tr{
+	padding-left: 30px;    
+}
+a .st{
+	padding-left: 40px;    
+}
+
+a:hover{
+    text-decoration: underline;   
+}
